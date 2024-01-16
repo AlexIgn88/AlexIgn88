@@ -1,16 +1,18 @@
-### Hi there 👋
+# Frontend Developer
 
-<!--
-**AlexIgn88/AlexIgn88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! Welcome to my GitHub repository. I am a passionate frontend developer who is currently learning and expanding my skills in HTML, CSS, JavaScript, React, and Next.js. I am dedicated to creating engaging and user-friendly web applications.
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Next.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+I am currently working on various projects to apply my skills and knowledge in frontend development. Feel free to explore my repositories and provide feedback or collaborate on any of the projects.
+
+## Contact
+If you would like to connect or collaborate on any front end development projects, feel free to reach out to me via email. 
+
+Happy coding!
