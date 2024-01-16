@@ -1,6 +1,6 @@
 # Frontend Developer
 
-Hello there! Welcome to my GitHub repository. I am a frontend developer who is currently learning and expanding my skills in HTML, CSS, JavaScript, React, and Next.js. I am dedicated to creating engaging and user-friendly web applications.
+Hello there! Welcome to my GitHub repositories. I am a frontend developer who is currently learning and expanding my skills in HTML, CSS, JavaScript, React, and Next.js. I am dedicated to creating engaging and user-friendly web applications.
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/HTML-gray?logo=HTML5)
