@@ -5,6 +5,7 @@ Hello there! Welcome to my GitHub repositories. I am a frontend developer who is
 ## Skills
 ![Static Badge](https://img.shields.io/badge/HTML-gray?logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS-gray?logo=css3)
+![Static Badge](https://img.shields.io/badge/SASS-gray?logo=sass)
 ![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)
 ![Static Badge](https://img.shields.io/badge/React-gray?logo=react)
