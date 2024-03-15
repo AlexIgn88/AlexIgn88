@@ -14,6 +14,8 @@ Hello there! Welcome to my GitHub repositories. I am a frontend developer who is
 ![Static Badge](https://img.shields.io/badge/Prisma-gray?logo=Prisma)
 ![Static Badge](https://img.shields.io/badge/Git-gray?logo=Git)
 ![Static Badge](https://img.shields.io/badge/GitHub-gray?logo=GitHub)
+![Static Badge](https://img.shields.io/badge/Node.js-gray?logo=Node.js)
+![Static Badge](https://img.shields.io/badge/Express-gray?logo=Express)
 
 ## Projects
 I am currently working on various projects to apply my skills and knowledge in frontend development. Feel free to explore my repositories and provide feedback or collaborate on any of the projects.
